@@ -1,0 +1,821 @@
+/* GENERATED (03/05/2023 15:38:38) by hoarau : DO NOT MODIFY */
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+ol,
+ul {
+    margin-bottom: 0px;
+}
+
+a {
+    max-width: 100%;
+}
+
+.btn {
+    white-space: normal;
+    padding: 0;
+}
+
+a.btn {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+hr {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+div.gl_txt .fa-ul {
+    margin: 0;
+}
+
+div.gl_txt .fa-li {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: auto;
+    padding: 0 5px;
+    float: left;
+}
+
+.fa-ul>li {
+    clear: both;
+}
+
+.radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+    margin: 0px;
+}
+
+label,
+.radio label {
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+}
+
+.radio,
+.checkbox {
+    margin: 0px;
+}
+
+input[type=radio],
+input[type=checkbox] {
+    margin: 0px;
+}
+
+.gl_autolink,
+.gl_autolink:hover,
+.gl_autolink:visited,
+.gl_autolink:hover {
+    color: inherit;
+}
+
+a>img.img-responsive {
+    display: inline-block;
+}
+
+form::after,
+.gl_cadre::after,
+.form-group::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.gl_tab .tab-pane {
+    padding: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.nav-tabs>li,
+.nav-tabs>li>a {
+    height: 100%;
+}
+
+.nav-tabs>li.active {
+    height: 101%;
+}
+
+.gl_tab .tab-pane::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.embed-responsive {
+    max-width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.gl_slider::after,
+.gl_tab_form::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.gl_slider .tab-pane,
+.gl_tab_form .tab-pane {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    visibility: visible;
+    opacity: 0;
+}
+
+.gl_slider .tab-content,
+.gl_tab_form .tab-content {
+    height: 100%;
+    overflow: hidden;
+}
+
+.gl_slider .tab-content::after,
+.gl_tab_form .tab-content::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.gl_slider .tab-pane.hidding,
+.gl_slider .tab-pane.active,
+.gl_tab_form .tab-pane.hidding,
+.gl_tab_form .tab-pane.active {
+    opacity: 1;
+}
+
+.gl_slider .nav-tabs,
+.gl_tab_form .nav-tabs {
+    border: none;
+    z-index: 1;
+}
+
+.gl_slider .nav-tabs>li,
+.gl_tab_form .nav-tabs>li {
+    margin: 0;
+    float: left;
+}
+
+.gl_slider .nav-tabs>li>a,
+.gl_slider .nav-tabs>li>a:active,
+.gl_tab_form .nav-tabs>li>a,
+.gl_tab_form .nav-tabs>li>a:active {
+    background: none;
+    border: none;
+    outline: 0;
+    margin: 0;
+    border-radius: 0;
+}
+
+.gl_slider .nav-tabs>li.active>a,
+.gl_slider .nav-tabs>li.active>a:active,
+.gl_slider .nav-tabs>li.active>a:focus,
+.gl_slider .nav-tabs>li.active>a:hover,
+.gl_tab_form .nav-tabs>li.active>a,
+.gl_tab_form .nav-tabs>li.active>a:active,
+.gl_tab_form .nav-tabs>li.active>a:focus,
+.gl_tab_form .nav-tabs>li.active>a:hover {
+    background: none;
+    border: none;
+    outline: 0;
+}
+
+.gl_nav {
+    display: none !important;
+}
+
+.gl_autodiv {
+    float: left;
+}
+
+html,
+body,
+section,
+.gl_container {
+    float: none;
+}
+
+h1 *,
+h2 *,
+h2 *,
+h4 *,
+h5 *,
+h6 *,
+p * {
+    float: none;
+}
+
+.gl_autorow {
+    float: none;
+    width: 100%;
+}
+
+section {
+    width: 100%;
+    display: block;
+}
+
+.gl_container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: block;
+    float: none;
+}
+
+.gl_autodiv>a {
+    display: block;
+    cursor: pointer;
+}
+
+.gl_autodiv a:hover {
+    text-decoration: none;
+}
+
+.gl_vxs,
+.gl_vsm,
+.gl_vmd,
+.gl_vlg {
+    display: none !important;
+}
+
+.gl_hidden {
+    display: none !important;
+}
+
+div.gl_txt span.fa {
+    display: inline-block !important;
+}
+
+[data-htmlformid] .form-group {
+    margin-bottom: 15px;
+}
+
+[data-htmlformid] .checkbox>label>label {
+    padding-left: 20px !important;
+}
+
+[data-htmlformid] .checkbox label input {}
+
+.gl_autodiv>a::after,
+.gl_autodiv>a::before {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.radcheck_option {
+    cursor: pointer;
+}
+
+.radcheck_option::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.radcheck_option.gl_radcheck_input_hidden input {
+    display: none;
+}
+
+* {
+    position: relative;
+}
+
+@media (min-width: 1200px) {
+    .gl_container {
+        width: 1170px;
+    }
+
+    .gl_elpar.gl_vxs:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_hidden_lgmd) {
+        visibility: hidden;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vsm:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_hidden_lgmd) {
+        visibility: hidden;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vmd {
+        visibility: hidden;
+        display: block !important;
+    }
+
+    section.gl_vlg:not(.hidden),
+    .gl_elpar.gl_vlg:not(.hidden) {
+        visibility: visible !important;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vsm:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_hidden_lgmd) .tab-content,
+    .gl_elpar.gl_vsm:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_hidden_lgmd) .nav-tabs {
+        display: none;
+    }
+
+    .gl_elpar.gl_vmd .tab-content,
+    .gl_elpar.gl_vmd .nav-tabs {
+        display: none;
+    }
+
+    .gl_elpar.gl_vlg:not(.hidden) .tab-content,
+    .gl_elpar.gl_vlg:not(.hidden) .nav-tabs,
+    .gl_elpar.gl_vlg:not(.hidden) .nav-tabs .gl_vlg {
+        display: block !important;
+    }
+}
+
+@media (min-width:992px) {
+
+    .gl_autodiv>a::after,
+    div.gl_cadre::after,
+    .form-group::after,
+    .gl_autodiv::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+}
+
+@media (max-width:1199px) {
+    .gl_vlg {
+        display: none !important;
+    }
+
+    .gl_slider .tab-pane,
+    .gl_tab_form.tab-pane {
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+    .gl_container {
+        width: 970px;
+    }
+
+    input[type="checkbox"],
+    input[type="radio"] {
+        max-width: none;
+    }
+
+    .gl_vsm,
+    .gl_vxs {
+        display: none !important;
+    }
+
+    .gl_vmd:not(.hidden) {
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vxs:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_vmd):not(.gl_hidden_lgmd) {
+        visibility: hidden;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vsm:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_vmd):not(.gl_hidden_lgmd) {
+        visibility: hidden;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vlg {
+        visibility: hidden;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vmd {
+        visibility: visible;
+        display: block !important;
+    }
+
+    .gl_elpar.gl_vsm:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_vmd):not(.gl_hidden_lgmd) .tab-content,
+    .gl_elpar.gl_vsm:not(.gl_ADCopySM):not(.gl_ADCopyXS):not(.gl_vmd):not(.gl_hidden_lgmd) .nav-tabs {
+        display: none;
+    }
+
+    .gl_elpar.gl_vlg .tab-content,
+    .gl_elpar.gl_vlg .nav-tabs {
+        display: none;
+    }
+
+    .gl_elpar.gl_vmd .tab-content,
+    .gl_elpar.gl_vmd .nav-tabs,
+    .gl_elpar.gl_vmd .nav-tabs .gl_vmd {
+        display: block !important;
+    }
+}
+
+@media (max-width:991px) {
+    .gl_vmd {
+        display: none !important;
+    }
+
+    .gl_container .gl_tab .nav-tabs li {
+        float: none;
+    }
+
+    .fa-li {
+        float: left;
+    }
+
+    .gl_autodiv img,
+    .gl_autodiv hr {
+        max-width: 100%;
+    }
+
+    div.gl_cadre,
+    .gl_autodiv>a {
+        min-height: 20px;
+    }
+
+    .gl_autodiv>img,
+    .gl_autodiv>span.fa,
+    .gl_container>span.fa {
+        height: auto !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .gl_autodiv>.gl_tab,
+    .embed-responsive {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .gl_autodiv>a,
+    button,
+    a.btn {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    button {
+        display: block !important;
+    }
+
+    hr {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h1 span.fa,
+    h2 span.fa,
+    h3 span.fa,
+    h4 span.fa,
+    h5 span.fa,
+    h6 span.fa,
+    p span.fa {
+        display: inline;
+    }
+
+    .gl_autodiv:not(.gl_xs_float):not(.gl_sm_float) {
+        width: 100%;
+    }
+
+    .gl_autodiv.gl_sm_target,
+    .gl_autodiv.gl_sm_dd:not(.gl_xs_float):not(.gl_sm_float) {
+        margin: 0px auto;
+        padding: 0;
+    }
+
+    .gl_autodiv.gl_elpar>* {
+        margin: 10px auto;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .gl_autodiv.gl_elpar>.form-control-feedback {
+        width: 34px;
+    }
+
+    .gl_autodiv.gl_elpar>.gl_nomargin_sm {
+        margin: 0 auto;
+    }
+
+    .gl_elpar>.gl_autolink>* {
+        margin: 10px auto;
+        max-width: 100%;
+    }
+
+    .gl_autodiv.gl_elpar>span.fa {
+        width: auto;
+    }
+
+    div.gl_txt {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .gl_autodiv>a div.gl_txt,
+    div.gl_cadre div.gl_txt,
+    div.gl_cadre form {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .gl_autodiv.gl_inline_sm>a div.gl_txt,
+    .gl_autodiv.gl_inline_sm div.gl_cadre div.gl_txt,
+    .gl_autodiv.gl_inline_sm div.gl_cadre form {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .gl_autodiv {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .gl_abs_container>.gl_autodiv {
+        position: relative !important;
+        left: 0 !important;
+        top: 0 !important;
+    }
+
+    .gl_autolink {
+        display: inline-block;
+        text-align: center;
+    }
+
+    .gl_autolink .gl_txt {
+        text-align: left;
+    }
+
+    .gl_sm_float {
+        float: left !important;
+    }
+
+    section {
+        min-height: 20px;
+        float: left !important;
+    }
+
+    :not(li):not(p):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
+        clear: both;
+    }
+
+    li * {
+        clear: none;
+    }
+
+    .gl_autodiv:not(.gl_elpar) {
+        clear: none;
+    }
+
+    .checkbox input[type="checkbox"],
+    .checkbox-inline input[type="checkbox"],
+    .radio input[type="radio"],
+    .radio-inline input[type="radio"] {
+        position: relative;
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    label {
+        display: block;
+    }
+
+    .gl_tab>ul {
+        height: auto !important;
+    }
+
+    .gl_tab .tab-pane .gl_autodiv.gl_sm_dd {
+        margin-top: 0 !important;
+        padding-top: 0;
+    }
+
+    .gl_slider,
+    .gl_tab_form {
+        height: auto !important;
+    }
+
+    .gl_slider .nav-tabs,
+    .gl_tab_form .nav-tabs {
+        width: fit-content;
+        width: -moz-fit-content;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+
+    .gl_slider .nav-tabs>li,
+    .gl_tab_form .nav-tabs>li {}
+
+    .gl_slider .tab-pane div.gl_txt,
+    .gl_tab_form .tab-pane div.gl_txt {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .form-group .form-control {
+        width: 100%;
+    }
+
+    .form-group .radcheck_option>.gl_autodiv::after {
+        content: '';
+        clear: both;
+        display: block;
+    }
+
+    .form-group .radcheck_option div.gl_radiocheck_input {
+        text-align: center;
+        float: left;
+        clear: none;
+    }
+
+    .form-group .radcheck_option div.gl_radiocheck_label {
+        float: left;
+        clear: none;
+    }
+
+    .form-group .gl_autodiv .gl_autodiv {
+        padding: 0;
+    }
+
+    .gl_inline_sm {
+        float: left;
+        clear: none;
+    }
+
+    .gl_inline_sm_first {
+        clear: both;
+    }
+
+    .form-horizontal .form-group {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    [data-htmlformid] div.col-sm-6 {
+        padding-left: 15px;
+    }
+
+    [data-htmlformid] label.col-sm-6 {
+        padding-right: 15px;
+    }
+
+    [data-htmlformid] .col-sm-6 {
+        width: 50% !important;
+        float: left !important;
+        clear: none !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .gl_container {
+        width: 750px;
+    }
+
+    .gl_vsm:not(.hidden) {
+        visibility: visible;
+        display: block !important;
+    }
+}
+
+@media (max-width:767px) {
+    .gl_vsm {
+        visibility: hidden;
+        display: none !important;
+    }
+
+    .gl_vxs:not(.hidden) {
+        visibility: visible;
+        display: block !important;
+    }
+
+    .gl_container {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100% !important;
+    }
+
+    .gl_xs_float {
+        float: left !important;
+    }
+
+    .gl_inline_not_xs {
+        clear: both;
+        width: 100% !important;
+    }
+
+    .gl_inline_xs {
+        float: left;
+        clear: none;
+    }
+
+    .gl_inline_xs_first {
+        clear: both;
+    }
+
+    .gl_autodiv.gl_elpar>.gl_nomargin_xs {
+        margin: 0 auto;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs {
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs li,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs li {
+        width: 100%;
+        text-align: center;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs .gl_nav,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs .gl_nav {
+        display: block !important;
+        position: absolute;
+        font-size: 28px;
+        z-index: 2;
+        cursor: pointer;
+        width: 40px;
+        height: 40px;
+        margin: auto 0;
+        top: 0;
+        bottom: 0;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs li:not(.gl_nav),
+    .gl_tab_form.gl_xsnav_mini .nav-tabs li:not(.gl_nav) {
+        opacity: 0;
+        position: absolute;
+        top: 0;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs li.active,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs li.active {
+        opacity: 1;
+        position: relative;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs .gl_nav a,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs .gl_nav a {
+        padding: 0;
+        color: #000;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs .gl_nav_before,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs .gl_nav_before {
+        left: 0;
+    }
+
+    .gl_slider.gl_xsnav_mini .nav-tabs .gl_nav_after,
+    .gl_tab_form.gl_xsnav_mini .nav-tabs .gl_nav_after {
+        right: 0;
+    }
+
+    [data-htmlformid] .col-sm-6 {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 100% !important;
+        float: none !important;
+    }
+
+    .col-sm-6.control-label {
+        text-align: left;
+    }
+
+    [data-htmlformid] div.col-sm-6 {
+        padding-left: 0px;
+    }
+
+    [data-htmlformid] label.col-sm-6 {
+        padding-right: 0px;
+    }
+
+    [data-htmlformid] .col-xs-6 {
+        width: 50% !important;
+        float: left !important;
+    }
+
+    [data-htmlformid] .col-xs-6:nth-child(2n+2) {
+        padding-left: 15px;
+    }
+
+    [data-htmlformid] .col-xs-6:nth-child(2n+1) {
+        padding-right: 15px;
+    }
+}
