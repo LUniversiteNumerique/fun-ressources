@@ -311,6 +311,13 @@ h2#gl_50 {
     font-family: "Questrial";
 }
 
+.part-title {
+    text-transform: uppercase;
+    font-family: "PassionOne";
+    font-size: 24px;
+    margin-top: 20px;
+}
+
 a#gl_54 {
     width: 359px;
 }
