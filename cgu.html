@@ -69,9 +69,9 @@
                                 pour assurer la continuité pédagogique au profit des étudiants.<br></p>
 
                             <h6 class="part-title">Éditeur du site</h6>
-                            <p>France Université Numérique<br>
-                                61 bis rue de la glacière 75013 Paris<br>
-                                Contact: communication@fun-mooc.
+                            <p>L'Université Numérique<br>
+                                7 rue Lamennais 75008 Paris<br>
+                                Contact: <span id="mailto">Y29udGFjdEBsdW5pdmVyc2l0ZW51bWVyaXF1ZS5mcg==</span>.
                             </p>
 
                             <h6 class="part-title">Directeur de la publication</h6>
@@ -108,5 +108,12 @@
         </div>
     </section>
 </body>
-
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+        const mailTo = document.getElementById("mailto");
+        const encodedText = mailTo.textContent.trim();
+        const decodedText = atob(encodedText);
+        mailTo.textContent = decodedText;
+    });
+</script>
 </html>
